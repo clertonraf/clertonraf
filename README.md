@@ -1,7 +1,7 @@
 [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi! I'm Clerton Araujo
 ======================================================================================================================================
 
-Software Engineer [@doctolib](https://github.com/doctolib)
+Senior Software Engineer [@doctolib](https://github.com/doctolib)
 ---------------------------
 
 *   🌍  I'm based in Berlin
