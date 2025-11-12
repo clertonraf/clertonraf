@@ -95,11 +95,3 @@ Senior Software Engineer [@doctolib](https://github.com/doctolib)
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/clertonraf/clertonraf/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/clertonraf/count.svg?"  />
-</div>
-
-###
